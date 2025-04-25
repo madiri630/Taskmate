@@ -25,7 +25,7 @@ Helps you **add, edit, delete, and prioritize** tasks with a simple and intuitiv
 
 ## 📸 Project Demo  
 
-🔗 **Live Demo:** [View Here](https://yourgithubusername.github.io/taskmate/)  
+🔗 **Live Demo:** [View Here](https://madiri630.github.io/Taskmate/)  
 
 ## 🎯 Future Enhancements  
 🔹 Integrate with **backend services** to sync tasks across multiple devices  
