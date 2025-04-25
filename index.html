@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>TaskMate - Task Manager</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>📋 TaskMate</h1>
+    <input type="text" id="taskName" placeholder="Enter task..." />
+    <select id="priority">
+      <option value="1">High Priority</option>
+      <option value="2">Medium Priority</option>
+      <option value="3">Low Priority</option>
+    </select>
+    <button onclick="addTask()">Add Task</button>
+
+    <ul id="taskList"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
